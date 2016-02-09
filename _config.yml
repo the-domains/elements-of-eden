@@ -1,7 +1,7 @@
 name: Elements of Eden
 favicon: null
 layout_spectrum: 0.4096670572180301
-typography_spectrum: 0.8248401014134288
+typography_spectrum: 0.30743
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.21639974135905504
-  lightness: 0.23104658303782344
-  saturation: 0.7322945410851389
-  rhythmicContrast: 0.09992725076153874
+    - '#b3be9e'
+    - '#b2c3d7'
+    - '#d6dee9'
+    - '#a8bad2'
+    - '#bdcadb'
+  brandStrength: 0.6875
+  lightness: 0.3125
+  saturation: 0.875
+  rhythmicContrast: 0.5
 purpose: []
