@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'http://www.elementsofedentn.com/'
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: CUSTOM DESIGNED JUST FOR YOU Some of our most memorable moments are times spent with family and friends around a fire pit or barbeque. Let us custom design a sp
-datePublished: '2016-02-09T19:04:25.691Z'
-dateModified: '2016-02-09T19:04:05.905Z'
+datePublished: '2016-02-09T22:06:33.589Z'
+dateModified: '2016-02-09T22:06:27.381Z'
 author: []
 title: ''
 sourcePath: _posts/2016-02-09-custom-designed-just-for-you-some-of-our-most-memorable-mome.md
