@@ -1,6 +1,6 @@
 name: Elements of Eden
 favicon: null
-layout_spectrum: 0.52933
+layout_spectrum: 0
 typography_spectrum: 0.8248401014134288
 collections:
   - index:
@@ -36,5 +36,5 @@ color:
   brandStrength: 0.216399741359055
   lightness: 0.375
   saturation: 0.6875
-  rhythmicContrast: 0.5
+  rhythmicContrast: 0.25
 purpose: []
