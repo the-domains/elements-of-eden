@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Elements of Eden]]></title>
         <description><![CDATA[Elements of Eden]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/elements-of-eden/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 09 Feb 2016 17:19:57 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 09 Feb 2016 17:28:08 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/elements-of-eden/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Top 10 Ways to Get Your Dream Garden Ready This Year]]></title>
+            <description><![CDATA[<article><h1>Top 10 Ways to Get Your Dream Garden Ready This Year</h1><p>Believe it or not, winter is ending soon, which means the time is ripe to get our plans in order for this year's garden, whether you're dreaming of a bounty of vegetables, a balcony of colorful flowers, or some other sort of outdoor oasis. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/36ac2ee57ec970191a89c0f5daad2f9e2ca7ffe9.jpg"></article>]]></description>
+            <link>http://lifehacker.com/top-10-ways-to-get-your-dream-garden-ready-this-year-1691415272</link>
+            <guid isPermaLink="false">9656cc98-db81-462a-ad6a-1fecf9d3640b</guid>
+            <pubDate>Tue, 09 Feb 2016 17:27:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/399afbe2-2183-4ace-bf09-0f1512795728.jpg">]]></description>
-            <link>undefined66faab6f-9f12-493e-ad76-80c1e3f4eba1/index.html</link>
+            <link>https://thegrid.ai/elements-of-eden/66faab6f-9f12-493e-ad76-80c1e3f4eba1/index.html</link>
             <guid isPermaLink="false">66faab6f-9f12-493e-ad76-80c1e3f4eba1</guid>
             <pubDate>Tue, 09 Feb 2016 17:02:48 GMT</pubDate>
         </item>
