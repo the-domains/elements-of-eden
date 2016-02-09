@@ -1,9 +1,7 @@
-favicon: null
 name: Elements of Eden
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.35819
+typography_spectrum: 0.8248401014134288
 collections:
   - index:
       path: /
@@ -16,25 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
-color:
-  saturation: 0.7322945410851389
-  brandStrength: 0.216399741359055
-  rhythmicContrast: 0.09992725076153874
-  brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  lightness: 0.2310465830378234
-typography_spectrum: 0.8248401014134288
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
-layout_spectrum: 0.9930182
 analytics:
-  twitter: null
   google: null
   facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ffffff'
+    - '#11100c'
+    - '#646458'
+    - '#aea177'
+    - '#94dc8e'
+  brandStrength: 0.216399741359055
+  lightness: 0.2310465830378234
+  saturation: 0.7322945410851389
+  rhythmicContrast: 0.09992725076153874
+purpose: []
