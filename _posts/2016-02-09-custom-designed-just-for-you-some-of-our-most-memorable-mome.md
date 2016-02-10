@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: CUSTOM DESIGNED JUST FOR YOU Some of our most memorable moments are times spent with family and friends around a fire pit or barbeque. Let us custom design a sp
-datePublished: '2016-02-09T22:06:33.589Z'
-dateModified: '2016-02-09T22:06:27.381Z'
+datePublished: '2016-02-10T22:46:39.367Z'
+dateModified: '2016-02-10T22:46:36.747Z'
 author: []
 title: ''
 sourcePath: _posts/2016-02-09-custom-designed-just-for-you-some-of-our-most-memorable-mome.md
@@ -23,8 +23,7 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a8244cc1-fe80-4c09-8f18-e6663c5833bd.jpg)
-
 CUSTOM DESIGNED JUST FOR YOU 
 
 Dream it up.   Then bring in style.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3a405bdd-877b-41f1-8db7-92f06e625acf.jpg)
